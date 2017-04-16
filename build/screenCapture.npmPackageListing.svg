@@ -1,17 +1,17 @@
 <svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="222" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-16 09:03:24 +0000   212168 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-16 09:03:24 +0000     5588 bytes  CHANGES.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-16 09:03:24 +0000     1060 bytes  LICENSE.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-16 09:03:24 +0000    15336 bytes  lib/Expectation.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-16 09:03:24 +0000     3229 bytes  lib/SpyUtils.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-16 09:03:24 +0000     4789 bytes  lib/TestUtils.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-16 09:03:24 +0000      896 bytes  lib/assert.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-16 09:03:24 +0000      572 bytes  lib/extend.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-16 09:03:24 +0000      743 bytes  lib/index.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-16 09:03:24 +0000     3592 bytes  package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-16 09:03:24 +0000   120701 bytes  umd/expect.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-16 09:03:24 +0000    55662 bytes  umd/expect.min.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-16 09:04:25 +0000   212168 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-16 09:04:25 +0000     5588 bytes  CHANGES.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-16 09:04:25 +0000     1060 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-16 09:04:25 +0000    15336 bytes  lib/Expectation.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-16 09:04:25 +0000     3229 bytes  lib/SpyUtils.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-16 09:04:25 +0000     4789 bytes  lib/TestUtils.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-16 09:04:25 +0000      896 bytes  lib/assert.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-16 09:04:25 +0000      572 bytes  lib/extend.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-16 09:04:25 +0000      743 bytes  lib/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-16 09:04:25 +0000     3592 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-16 09:04:25 +0000   120701 bytes  umd/expect.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-16 09:04:25 +0000    55662 bytes  umd/expect.min.js</tspan>
 </text>
 </svg>
